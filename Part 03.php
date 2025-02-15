@@ -1,7 +1,6 @@
 <?php
 
 //Step 1: Setup Models
-
 //Run the following Artisan commands:
 
 //php artisan make:model User -m
