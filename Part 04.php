@@ -2,8 +2,6 @@
 
 //Install Laravel & Passport
 
-//If you haven’t installed Laravel yet, run:
-
 composer create-project --prefer-dist laravel/laravel eav_project
 cd eav_project
 composer require laravel/passport
