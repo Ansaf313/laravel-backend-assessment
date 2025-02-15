@@ -1,5 +1,6 @@
 <?php
 
+
 //User Model (User.php)
 
 namespace App\Models;
